@@ -40,6 +40,8 @@
                 android:layout_height="wrap_content"
                 android:layout_rowSpan="1"
                 android:layout_columnSpan="1"
+                android:contentDescription="logoImage00"
+                android:onClick="SetTeamIcon"
                 app:srcCompat="@drawable/ic_logo_01" />
 
             <ImageView
@@ -48,7 +50,10 @@
                 android:layout_height="wrap_content"
                 android:layout_rowSpan="1"
                 android:layout_columnSpan="1"
+                android:contentDescription="logoImage01"
+                android:onClick="SetTeamIcon"
                 tools:srcCompat="@drawable/ic_logo_02" />
+
 
             <ImageView
                 android:id="@+id/logoImage02"
@@ -56,6 +61,8 @@
                 android:layout_height="wrap_content"
                 android:layout_rowSpan="1"
                 android:layout_columnSpan="1"
+                android:contentDescription="logoImage02"
+                android:onClick="SetTeamIcon"
                 app:srcCompat="@drawable/ic_logo_03" />
 
             <ImageView
@@ -64,6 +71,8 @@
                 android:layout_height="wrap_content"
                 android:layout_rowSpan="1"
                 android:layout_columnSpan="1"
+                android:contentDescription="logoImage03"
+                android:onClick="SetTeamIcon"
                 app:srcCompat="@drawable/ic_logo_04" />
 
             <ImageView
@@ -72,6 +81,8 @@
                 android:layout_height="wrap_content"
                 android:layout_rowSpan="1"
                 android:layout_columnSpan="1"
+                android:contentDescription="logoImage04"
+                android:onClick="SetTeamIcon"
                 app:srcCompat="@drawable/ic_logo_05" />
 
             <ImageView
@@ -80,6 +91,8 @@
                 android:layout_height="wrap_content"
                 android:layout_row="1"
                 android:layout_columnSpan="1"
+                android:contentDescription="logoImage05"
+                android:onClick="SetTeamIcon"
                 app:srcCompat="@drawable/ic_logo_00" />
 
         </GridLayout>
