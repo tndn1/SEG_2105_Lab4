@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="address_hint">(Please enter a ZIP code)</string>
+    <string name="address_label">Team Address</string>
+    <string name="app_name">Lab4_300103204</string>
+    <string name="app_title">Sports Team Manager</string>
+    <string name="button_text">OPEN IN GOOGLE MAPS</string>
+    <string name="name_hint">(Please enter a team name)</string>
+    <string name="name_label">Team Name</string>
+    <string name="new_avatar_button">LOAD FROM PHONE</string>
+    <string name="new_avatar_title">Create new avatar</string>
+    <style name="Base.Theme.Lab4_300103204" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab4_300103204" parent="Base.Theme.Lab4_300103204"/>
+</resources>
